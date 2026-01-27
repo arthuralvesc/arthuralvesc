@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Arthur, a Software Engineer from Brazil, and I have been in the IT industry since 2021. 
+
+I am currently working as a Frontend Developer, and my main focus is Angular.
+
+Feel free to send me an invite on LinkedIn: https://www.linkedin.com/in/arthur-alves-carvalho/
+
+Or reach me through e-mail: arthurnetworkbr@gmail.com ! 
+
 <!--
 **arthuralvesc/arthuralvesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
