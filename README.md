@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Arthur 👋</h1>
 
 <p align="center">
-  <b>Fullstack Developer · Brazil 🇧🇷</b>
+  <b>Fullstack Developer · Brazil</b>
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
 I'm a **Fullstack Developer** from Brazil with experience building end-to-end web applications. I've been in the IT industry since 2021, working across the full stack — from crafting responsive frontends with **Angular** to building robust backends with **Java**.
 
 - 🔭 Currently focused on **Fullstack development** with Angular + Java
+- 🌱 Always learning and leveling up
 - 💬 Ask me about **Angular, TypeScript, Java, Spring Boot, PostgreSQL, AWS**
 - 📫 Reach me at **arthurnetworkbr@gmail.com**
 
@@ -66,6 +67,16 @@ I'm a **Fullstack Developer** from Brazil with experience building end-to-end we
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 📝 [ListaDeTarefas](https://github.com/arthuralvesc/listadetarefas)
+A to-do list application to manage and organize daily tasks.
+
+### 🎾 [EasyTennis](https://github.com/arthuralvesc/easytennis)
+A court rental tracker built to streamline tennis court booking and management.
 
 ---
 
