@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arthur 👋</h1>
+<h1 align="center">Arthur Carvalho</h1>
 
 <p align="center">
   <b>Fullstack Developer · Brazil</b>
@@ -78,6 +78,8 @@ A to-do list application to manage and organize daily tasks.
 ### 🎾 [EasyTennis](https://github.com/arthuralvesc/easytennis)
 A court rental tracker built to streamline tennis court booking and management.
 
+### 🎫 [TicketHub](https://github.com/arthuralvesc/tickethub)
+A concert ticket booking API.
 ---
 
 ## 📊 GitHub Stats
