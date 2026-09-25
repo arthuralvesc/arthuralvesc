@@ -80,7 +80,6 @@ A court rental tracker built to streamline tennis court booking and management.
 
 ### 🎫 [TicketHub](https://github.com/arthuralvesc/tickethub)
 A concert ticket booking API.
----
 
 ## 📊 GitHub Stats
 
